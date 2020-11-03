@@ -1,0 +1,6 @@
+User 20
+189 ('Henry V (1989)', '01-Jan-1989') 4.121
+483 ('Maltese Falcon, The (1941)', '01-Jan-1941') 4.048
+165 ('Manon of the Spring (Manon des sources) (1986)', '01-Jan-1986') 4.016
+169 ('Cinema Paradiso (1988)', '01-Jan-1988') 4.016
+15 ('French Twist (Gazon maudit) (1995)', '01-Jan-1995') 3.94
